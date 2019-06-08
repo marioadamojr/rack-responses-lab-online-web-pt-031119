@@ -4,12 +4,12 @@ binding.pry
     resp = Rack::Response.new
 
 
-    if 
+    if
     resp.write "Good Morning!"
 
 
 
-    
+
     resp.finish
 
 end
